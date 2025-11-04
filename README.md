@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently pursuing a Master's in Artificial Intelligence <br>Jönköping University<br> I am Bhargavi Chadalawada, a Master's student in AI Engineering at<br> Jönköping University with strong Python expertise. Skilled in machine<br> learning, data analysis, and algorithm development, I thrive on<br> solving complex problems and creating innovative AI solutions. My<br> goal is to push boundaries and drive advancements in AI technology.<br>
+I am Bhargavi Chadalawada, a Master's student in AI Engineering at Jönköping University with strong Python expertise. Skilled in machine learning, data analysis, and algorithm development, I thrive on solving complex problems and creating innovative AI solutions. My goal is to push boundaries and drive advancements in AI technology.
 
 
 ## 🌐 Socials:
